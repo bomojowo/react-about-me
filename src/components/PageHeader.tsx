@@ -1,10 +1,12 @@
 function PageHeader(): JSX.Element {
   return (
     <header>
-      <h1>Ye Olde Web Page</h1>
-      <p>Welcome to Nichard's Ye Olde Web Page!</p>
+      <h1>The Web Page</h1>
       <p>
-        This shows a random scatter of my thoughts, last updated on March 4,
+        Welcome to Bukky'<s></s> Web Page!
+      </p>
+      <p>
+        This shows a random scatter of my thoughts, last updated on June 16,
         2003.
       </p>
     </header>

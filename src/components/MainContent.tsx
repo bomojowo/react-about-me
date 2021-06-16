@@ -15,13 +15,13 @@ function MainContent(): JSX.Element {
     <main>
       <section>
         <h2>About Me</h2>
-        <p>Hi! My name is Nichard Rg.</p>
+        <p>Hi! My name is Bukky O.</p>
         <p>
           I currently live in {location.city}, {location.country}.
         </p>
       </section>
       <section>
-        <h2>Musing of the month ({location.city}, March 2003)</h2>
+        <h2>Musing of the month ({location.city}, June 2021)</h2>
         <p>
           Q: How much wood could a woodchuck chuck if a woodchuck could chuck
           wood?
